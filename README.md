@@ -2,7 +2,7 @@
 This project focuses on the development of an automated system to extract and analyze disaster-related information from news reports in near real-time. By leveraging web scraping, natural language processing (NLP), and machine learning (ML), the system is designed to assist first responders and policymakers in making informed decisions during disaster response and recovery efforts. The core of the system consists of several modules: a web crawler, scraper, data filter, and machine learning models for disaster event detection and impact analysis. The work also emphasizes a gender-inclusive approach to disaster resilience, analyzing the vulnerabilities and contributions of women during disaster events.
 
 # Modules
-##Web Crawler
+## Web Crawler
 The web crawler collects data from a wide range of online news sources in near real-time. It searches for and retrieves articles related to disaster events using a static disaster ontology. The crawler ensures the system remains updated with the latest reports, continuously gathering relevant news data for further processing.
 
 ### Web Scraper
