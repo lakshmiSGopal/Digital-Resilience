@@ -17,5 +17,9 @@ This model detects and classifies disaster events such as floods, landslides, an
 ### Impact and Loss Detection Machine Learning Model
 This model predicts the different impacts of a disaster, such as casualties, infrastructure damage, and economic losses. It identifies the key consequences of a disaster and generates insights on how the disaster affected various aspects of life and property. This model helps to prioritize response efforts by understanding the magnitude of damage.
 
+# Disaster Resilience Grafana Dashboard
+The Disaster Resilience Grafana Dashboard provides a near real-time visualization of disaster-related data, enabling efficient decision-making for relief efforts. This dashboard integrates data from web crawlers and machine learning models to display key metrics such as the type of disaster, the impact on infrastructure, and the affected population. 
+[Click here to view the dashboard](https://aadithkrsresearch.grafana.net/public-dashboards/4ee7bea897664a99a3e9aade0461a2d7)
+
 # Future Enhancements in upcoming releases
 Future work aims to develop a dynamic ontology, increase the volume of training data for ML models, and incorporate real-time data sources like social media for improved disaster detection. This will further enhance the accuracy and relevance of the system's outputs. 
